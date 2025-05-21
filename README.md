@@ -14,3 +14,5 @@ ab -k -c 50 -n 2000 'http://localhost:8080/status/200?seconds_sleep=2'
 
 ## Пример дашборда
 Находится в папке /grafana/example-dashboard.json
+
+![image](https://github.com/user-attachments/assets/e964910c-26c8-444a-8ec2-be16157d67f6)
